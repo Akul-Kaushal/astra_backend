@@ -13,6 +13,8 @@ def extract_insurance_metadata(raw_text: str) -> dict:
         r"Star Health",
         r"Bajaj Allianz",
         r"Reliance General Insurance"
+        r"Star Health"
+        r"LIC"
     ]
 
     provider = "Unknown Provider"
