@@ -1,7 +1,4 @@
 import re
-
-
-
 def extract_insurance_metadata(raw_text: str) -> dict:
     text = raw_text.strip()
 
@@ -14,7 +11,7 @@ def extract_insurance_metadata(raw_text: str) -> dict:
         r"Bajaj Allianz",
         r"Reliance General Insurance"
         r"Star Health"
-        r"LIC"
+        r"LIC's"
     ]
 
     provider = "Unknown Provider"

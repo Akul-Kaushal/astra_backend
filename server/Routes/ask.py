@@ -18,5 +18,5 @@ class AnswerResponse(BaseModel):
 @router.post("/ask", response_model=AnswerResponse)
 def ask_question(req: QuestionRequest):
     answer = ask(req.question)
-    answer = translate_text(answer, "en", req.language)
+    # answer = translate_text(answer, "en", req.language)
     return {"answer": answer}

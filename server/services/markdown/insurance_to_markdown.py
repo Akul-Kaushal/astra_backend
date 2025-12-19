@@ -1,11 +1,40 @@
-def to_bullets(lines: list[str], max_items=10) -> str:
+def to_bullets(lines: list[str], max_items=100) -> str:
     bullets = []
     for line in lines:
-        if len(line) > 25:
-            bullets.append(f"- {line}")
+        clean = line.strip()
+        if len(clean) >= 10:
+            bullets.append(f"- {clean}")
         if len(bullets) >= max_items:
             break
     return "\n".join(bullets)
+
+def render_sections(content: dict) -> str:
+    order = [
+        "Hospitalization Coverage",
+        "Cardiac Coverage",
+        "Critical Illness Coverage",
+        "Chronic Disease Coverage",
+        "Out Patient Coverage",
+        "Modern Treatments",
+        "AYUSH Treatment",
+        "Home Care / Domiciliary Treatment",
+        "Special Benefits",
+        "Wellness Benefits",
+        "Optional Covers",
+        "Waiting Periods",
+        "Pre-Existing Disease",
+        "Exclusions"
+    ]
+
+    md = []
+    for section in order:
+        if section in content:
+            md.append(f"## {section}")
+            md.append(to_bullets(content[section]))
+            md.append("")
+
+    return "\n".join(md)
+
 
 def insurance_to_markdown(raw_text: str, policy_name: str, provider: str) -> str:
     from .normalise_markdown import normalize_text
@@ -14,8 +43,9 @@ def insurance_to_markdown(raw_text: str, policy_name: str, provider: str) -> str
     lines = normalize_text(raw_text)
     content = parse_insurance_content(lines)
 
-    return f"""---
-doc_type: insurance
+    sections_md = render_sections(content)
+
+    return f"""doc_type: insurance
 policy_name: {policy_name}
 provider: {provider}
 coverage_type: health
@@ -27,19 +57,9 @@ audience: senior_citizen
 ## What This Policy Is For
 This policy is provided by **{provider}** to help cover medical and hospital expenses.
 
-## What Is Covered
-{to_bullets(content.get("What Is Covered", []))}
-
-## Special Benefits
-{to_bullets(content.get("Special Benefits", []))}
-
-## What Is NOT Covered
-{to_bullets(content.get("What Is NOT Covered", []))}
-
-## Important Waiting Periods
-{to_bullets(content.get("Waiting Periods", []))}
+{sections_md}
 
 ## In Simple Words
 This insurance helps pay hospital bills when you fall sick.  
-Some treatments are covered only after a waiting period.
+Some treatments have waiting periods and exclusions depending on the illness.
 """
