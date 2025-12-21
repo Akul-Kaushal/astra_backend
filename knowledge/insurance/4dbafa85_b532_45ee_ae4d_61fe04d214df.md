@@ -1,0 +1,672 @@
+doc_type: insurance
+policy_name: Insurance Co
+provider: Bajaj Allianz
+coverage_type: health
+audience: senior_citizen
+---
+
+# Insurance Co – Simple Explanation
+
+## What This Policy Is For
+This policy is provided by **Bajaj Allianz** to help cover medical and hospital expenses.
+
+## Hospitalization Coverage
+- declarations, information/particulars and statements, which is hereby agreed to be the basis of this Contract and be
+- iii. Having dedicated AYUSH therapy sections as required and/or has equipped operation theatre where
+- surgical procedures are to be carried out;
+- iv.Maintaining daily records of the patients and making them accessible to the Insurance Company’s
+- authorized representative.
+- Having dedicated AYUSH therapy sections as required and/or has equipped operation theatre where
+- surgical procedures are to be carried out;
+- Maintaining daily records of the patients and making them accessible to the Insurance Company’s
+- authorized representative.
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 2
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- Cashless Facility:-
+- Cashless Facility means a facility extended by the Insurer to the Insured where the payments, of the costs of
+- treatment undergone by the Insured in accordance with the Policy terms and conditions, are directly made to the
+- Network Provider by the Insurer to the extent pre-authorization is approved.
+- Condition Precedent:-
+- Condition Precedent means a Policy term or condition upon which the Insurer's liability under the Policy is
+- conditional upon.
+- Congenital Anomaly:-
+- Congenital Anomaly means a condition which is present since birth, and which is abnormal with reference to
+- form, structure or position.
+- a. Internal Congenital Anomaly- Congenital Anomaly which is not in the visible and accessible parts of the body
+- b. External Congenital Anomaly- Congenital Anomaly which is in the visible and accessible parts of the body
+- has a fully equipped operation theatre of its own where surgical procedures are carried out;
+- maintains daily records of patients and will make these accessible to the Insurance Company’s authorized
+- personnel.
+- ii. Which would have otherwise required a Hospitalization of more than 24 hours.
+- iv. has a fully equipped operation theatre of its own where surgical procedures are carried out;
+- v. maintains daily records of patients and makes these accessible to the Insurance Company’s authorized
+- personnel.
+- 18. Hospitalization:-
+- Hospitalization means admission in a Hospital for a minimum period of 24 consecutive In-patient Care hours
+- except for specified procedures/ treatments, where such admission could be for a period of less than 24
+- consecutive hours.
+- 19. Illness:-
+- Illness means a sickness or a disease or pathological condition leading to the impairment of normal physiological
+- function and requires medical treatment.
+- a. Acute condition - Acute condition is a disease, Illness or Injury that is likely to respond quickly to treatment
+- which aims to return the person to his or her state of health immediately before suffering the
+- disease/Illness/Injury which leads to full recovery.
+- b. Chronic condition – A chronic condition is defined as a disease, Illness, or Injury that has one or more of the
+- following characteristics:
+- a. it needs ongoing or long-term monitoring through consultations, examinations, check-ups, and /or tests
+- b. it needs ongoing or long-term control for relief of symptoms
+- 22. Intensive Care Unit:-
+- Intensive Care Unit means an identified section, ward or wing of a Hospital which is under the constant
+- 23. ICU Charges:-
+- ICU (Intensive Care Unit) Charges means the amount charged by a Hospital towards ICU expenses which shall
+- include the expenses for ICU bed, general medical support services provided to any ICU patient including
+- monitoring devices, critical care nursing and intensivist charges.
+- incurred during Hospitalization);
+- b. expenses towards lawful medical termination of pregnancy during the Policy Period.
+- 26. Medical Advice:-
+- Medical Advice means any consultation or advice from a Medical Practitioner including the issuance of any
+- prescription or follow up prescription.
+- 27. Medical Expenses:-
+- Medical Expenses means those expenses that an Insured has necessarily and actually incurred for medical
+- treatment on account of Illness or Accident on the advice of a Medical Practitioner, as long as these are no more
+- than would have been payable if the Insured had not been Insured and no more than other Hospitals or Medical
+- Practitioners in the same locality would have charged for the same medical treatment.
+- 28. Medical Practitioner/Doctor/ Physician:-
+- Medical Practitioner means a person who holds a valid registration from the Medical Council of any State or
+- 38. Pre-Hospitalization Medical Expenses:-
+- Pre-Hospitalization Medical Expenses means medical expenses incurred during pre-defined number of days
+- preceding the Hospitalization of the Insured, provided that:
+- i. Such Medical Expenses are incurred for the same condition for which the Insured’s Hospitalization was
+- required, and
+- ii. The In-patient Hospitalization claim for such Hospitalization is admissible by the Insurance Company.
+- 39. Post-Hospitalization Medical Expenses:-
+- Post-Hospitalization Medical Expenses means medical expenses incurred during pre-defined number of days
+- immediately after the Insured is discharged from the Hospital provided that:
+- Such Medical Expenses are for the same condition for which the Insured’s Hospitalization was required, and
+- The Inpatient Hospitalization claim for such Hospitalization is admissible by the Insurance Company.
+- 40. Reasonable and Customary Charges:-
+- Reasonable and Customary Charges means the charges for services or supplies, which are the standard charges
+- for the specific provider and consistent with the prevailing charges in the geographical area for identical or similar
+- services, taking into account the nature of the Illness / Injury involved.
+- 41. Qualified Nurse:-
+- Qualified nurse means a person who holds a valid registration from the Nursing Council of India or the Nursing
+- Council of any state in India.
+- 43. Room Rent:-
+- Room Rent means the amount charged by a Hospital towards Room and Boarding expenses and shall include
+- the associated medical expenses.
+- 44. Surgery or Surgical Procedure:-
+- Surgery or Surgical Procedure means manual and / or operative procedure (s) required for treatment of an Illness
+- or Injury, correction of deformities and defects, diagnosis and cure of diseases, relief from suffering and
+- In-patient cash benefit is payable when You receive Inpatient treatment free of charge for a medical condition that
+- is covered by Us. Cover is limited to the amount and maximum number of nights specified in the Table of Benefits
+- and is payable after You are discharged from Hospital.
+- 20. Limit of Indemnity:-
+- We have accepted an Inpatient Hospitalization claim for the Insured under In-patient Hospitalization treatment
+- neck performed in a Hospital by an oral and maxillofacial surgeon for: oral pathology, temporomandibular joint
+- disorders, facial bone fractures, congenital jaw deformities, salivary gland diseases and tumours.
+- Unless You hold an International Dental Plan, We do not cover the following procedures even if they are
+- performed by an oral and maxillofacial surgeon:
+
+## Cardiac Coverage
+- orthopedic implants, cardiac valve replacements, vascular stents.
+- ix. Relevant laboratory diagnostic tests, X-ray and such similar expenses that are medically necessary prescribed
+- by the treating Medical Practitioner.
+- orthopedic implants, cardiac valve replacements, vascular stents.
+- ix. Relevant laboratory diagnostic tests, X-ray, and other Radiology tests and such similar expenses that are
+- medically necessary prescribed by the treating Medical Practitioner.
+- g. Coronary heart disease
+- h. Severe Sleep Apnea
+- prosthetic devices implanted during surgical procedure like Pacemaker, orthopedic implants, cardiac valve
+- replacements, vascular stents etc.
+- 5) Treatment for any other system other than modern medicine (allopathy)
+- g. Coronary heart disease
+- h. Severe Sleep Apnea
+- devices implanted during surgical procedure like Pacemaker, orthopedic implants, cardiac valve replacements,
+- vascular stents etc.
+- 5) Treatment for any other system other than modern medicine (allopathy)
+
+## Chronic Disease Coverage
+- Uncontrolled Type2 Diabetes
+- 7) Change-of-gender treatments (Code- Excl07)
+- Expenses related to any treatment, including surgical management, to change characteristics of the body to those
+- of the opposite sex.
+- 8) Cosmetic or plastic Surgery (Code- Excl08)
+- Expenses for cosmetic or plastic surgery or any treatment to change appearance unless for reconstruction
+- Uncontrolled Type2 Diabetes
+- 7) Change-of-gender treatments (Code-Excl07)
+- Expenses related to any treatment, including surgical management, to change characteristics of the body to those
+- of the opposite sex.
+- 8) Cosmetic or plastic Surgery (Code-Excl08)
+- Expenses for cosmetic or plastic surgery or any treatment to change appearance unless for reconstruction
+- 262 TIPS procedure for portal hypertension
+- 63 Infusional Targeted therapy
+- 263 Esophageal Growth stent
+- 64 SRT-Stereotactic Arc Therapy
+- 264 PAIR Procedure of Hydatid Cyst liver
+- 65 SC administration of Growth Factors
+- 265 Tru cut liver biopsy
+
+## Out Patient Coverage
+- Treatment normally taken on an out-patient basis is not included in the scope of this definition.
+- 35. OPD treatment:-
+- OPD treatment means the one in which the Insured visits a clinic / Hospital or associated facility like a
+- consultation room for diagnosis and treatment based on the advice of a Medical Practitioner. The Insured is not
+- procedure performed on the Insured cannot be carried out on out-patient basis.
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 12
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- e. Out-patient Treatment for Mental Illness
+- d. the treatment could not be carried out on an out-patient basis.
+- e. Out-patient Treatment for Mental Illness
+- d. the treatment could not be carried out on an out-patient basis
+- quality of life. It includes Inpatient, day-care and out-patient treatment. We will pay for physical care, psychological
+- care, Hospital or hospice accommodation, nursing care and prescription drugs.
+- II. OUT-PATIENT BENEFITS FOR INTERNATIONAL COVER (Applicable to Imperial Plus Plan only)
+- 1. Out-patient Treatment
+- If You consult a consultant/Medical Practitioner on Outpatient basis for the Illness/ Injury contracted during the
+- Policy Period, We will pay You Out Patient expenses up to the limits specified in the Policy Schedule for
+- a. Medical Practitioner fees
+- b. Specialist fees
+- c. Diagnostic tests
+- d. Prescription drugs
+- claims under out-patient except those arising out of Accidental Injury, however the waiting period would not
+- b. Out-patient Dental Treatment expenses will not be covered
+- 2. Physiotherapy Benefit
+- We will pay the expenses incurred towards Prescribed Physiotherapy taken on Out-patient basis for Illness/Injury
+- contracted during the Policy Period, maximum up to the limit specified in the Policy Schedule, provided that,
+- a. The treatment is referred by a Doctor or prescribed by a Specialist consultant for Muskulo- skeletal
+- /Neurological diseases / Injuries or other Systemic diseases
+- b. The treatment should be carried out by a registered physiotherapist in a Hospital or a clinic as defined under
+- the Policy
+- c. Physiotherapy is initially restricted to 12 sessions per condition, after which treatment must be reviewed by the
+- Doctor who referred You. If You need further sessions, You must send Us a new progress report after every
+- set of 12 sessions, indicating the medical necessity for more treatment.
+- Out-patient benefits
+- IMPERIAL PLAN
+- IMPERIAL PLUS PLAN
+- Maximum out-patient plan
+- benefit for international
+- treatments only
+- Out-patient Treatment
+- (Medical Practitioner fees
+- Specialist fees
+- Diagnostic tests
+- Prescription drugs)
+- Note: Excluding out-patient
+- Dental Treatment
+- Physiotherapy Benefit
+- (Prescribed Physiotherapy)
+- Alternate/Complementary
+- Treatment Expenses
+- (Chiropractic treatment,
+- 17) Costs in respect of a family therapist or counsellor for out-patient mental illness treatment.
+-  Out-patient treatment
+-  Prescribed medical aids
+-  Preventive treatment
+-  Travel costs of Insured family members in the event of an evacuation/repatriation
+-  Travel costs of Insured family members in the event of the repatriation of mortal remains
+-  Travel costs of Insured members to be with a family member who is at peril of death or who has died
+- e. Out-patient Treatment for Mental Illness.
+- 17) Costs in respect of a family therapist or counsellor for out-patient mental illness treatment.
+-  Out-patient treatment
+-  Prescribed glasses and contact lenses including eye examination
+-  Prescribed medical aids
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 28
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+-  Preventive treatment
+- e. Out-patient Treatment for Mental Illness.
+- 33) Emergency treatment outside area of cover
+- Cover is not provided for curative or follow-up non-Emergency treatment, even if You are deemed unable to
+- C. Applicable to Part B-II (OUT-PATIENT BENEFITS FOR INTERNATIONAL COVER)
+- 1. Out-patient Treatment
+- claims under out-patient except those arising out of Accidental Injury, however the waiting period would not be
+- b. Out-patient Dental Treatment expenses will not be covered.
+- 2. Alternate/Complementary Treatment
+- Claiming for Your out-patient, dental and other expenses
+
+## Modern Treatments
+- 12. Modern Treatment Methods and Advancement in Technologies
+- We will pay the Customary and Reasonable expenses for the Modern Treatment Methods as mentioned in
+- Modern Treatment Methods and
+- Advancement in Technologies
+- 17. Modern Treatment Methods and Advancement in Technologies
+- We will pay the Customary and Reasonable expenses for the Modern Treatment Methods as mentioned in
+- Modern Treatment Methods
+- and Advancement in
+- Technologies
+- 7) Congenital external diseases or defects or anomalies, growth hormone therapy, stem cell implantation or surgery
+- except for Hematopoietic stem cells for bone marrow transplant for haematological conditions.
+- 8) Intentional self-Injury (including but not limited to the use or misuse of any intoxicating drugs or alcohol)
+- 9) Vaccination or inoculation unless forming a part of post bite treatment or if medically necessary and forming a
+- part of treatment recommended by the treating Medical Practitioner.
+- 10) All non-medical Items as per Annexure II.
+- 11) Circumcision unless required for the treatment of Illness or Accidental bodily Injury.
+- 12) Treatment for any medical conditions arising directly or indirectly from chemical contamination, radioactivity or
+- any nuclear material, including the combustion of nuclear fuel.
+- 13) Alternate/ Complementary treatment, with the exception of those treatments shown in the Table of Benefits.
+- 14) Expenses incurred because of complications directly caused by an Illness, Injury or treatment for which cover is
+- excluded or limited under Your plan.
+- 15) Consultations performed and any drugs or treatments prescribed by You, Your spouse, parents or children.
+- 16) Dental veneers and related procedures, unless medically necessary.
+- but not limited to, 3D Printing. Expenses incurred during the acquisition of an organ relating to stem cell storage
+- and banking.
+- 28) The following benefits or any adverse consequences or complications relating to them, unless otherwise indicated
+- in Your Table of Benefits:
+-  Dental treatment, dental surgery, periodontics, orthodontics and dental prostheses. The only exception is
+- 7) Congenital external diseases or defects or anomalies, growth hormone therapy, stem cell implantation or surgery
+- except for Hematopoietic stem cells for bone marrow transplant for haematological conditions.
+- 8) Intentional self-Injury (including but not limited to the use or misuse of any intoxicating drugs or alcohol)
+- 9) Vaccination or inoculation unless forming a part of post bite treatment or if medically necessary and forming a
+- part of treatment recommended by the treating Medical Practitioner.
+- 10) All non-medical Items as per Annexure II
+- 11) Circumcision unless required for the treatment of Illness or Accidental bodily Injury,
+- 12) Treatment for any medical conditions arising directly or indirectly from chemical contamination, radioactivity or
+- any nuclear material, including the combustion of nuclear fuel.
+- 13) Alternate/Complementary treatment, with the exception of those treatments shown in the Table of Benefits.
+- 14) Expenses incurred because of complications directly caused by an Illness, Injury or treatment for which cover is
+- excluded or limited under Your plan.
+- 15) Consultations performed and any drugs or treatments prescribed by You, Your spouse, parents or children.
+- 16) Dental veneers and related procedures, unless medically necessary.
+- but not limited to, 3D Printing. Expenses incurred during the acquisition of an organ relating to stem cell storage
+- and banking.
+- 30) The following benefits or any adverse consequences or complications relating to them, unless otherwise indicated
+- in Your Table of Benefits:
+-  Dental treatment, dental surgery, periodontics, orthodontics and dental prostheses. The only exception is
+- Annexure III: Indicative list of Modern Treatment Methods and Advancement in Technologies
+- Uterine Artery Embolization and HIFU
+- Balloon Sinuplasty
+- Immunotherapy- Monoclonal Antibody to be given as injection
+- Intra vitreal injections
+- Robotic surgeries
+- Stereotactic radio surgeries
+- Bronchical Thermoplasty
+- Vaporisation of the prostrate (Green laser treatment or holmium laser treatment)
+- IONM -(Intra Operative Neuro Monitoring)
+- Stem cell therapy: Hematopoietic stem cells for bone marrow transplant for haematological conditions to
+- be covered
+- Annexure IV: ICD codes for Mental Illness*
+- Description
+- F00-F09 Organic, including symptomatic, mental disorders
+- F20-F29 Schizophrenia, schizotypal and delusional disorders
+- F30-F39 Mood [affective] disorders
+- F40-F48 Neurotic, stress-related and somatoform disorders
+- F50-F59 Behavioural syndromes associated with physiological disturbances and physical factors
+- F60-F69 Disorders of adult personality and behaviour
+- F80-F89 Disorders of psychological development
+- F90-F98 Behavioural and emotional disorders with onset usually occurring in childhood and
+- adolescence
+- Unspecified mental disorder
+- *As per ICD-10 classification of Mental and Behavioral Disorders F10-F19 consist of Mental and behavioral
+- disorders due to psychoactive substance use which are not covered under "Mental Illness Treatment" and hence
+- not listed in Annexure IV: ICD codes for Mental Illness.
+
+## AYUSH Treatment
+- 3. AYUSH Hospital:-
+- An AYUSH Hospital is a healthcare facility wherein medical/surgical/para-surgical treatment procedures and
+- interventions are carried out by AYUSH Medical Practitioner(s) comprising of any of the following:
+- a. Central or State Government AYUSH Hospital; or
+- b. Teaching Hospital attached to AYUSH College recognized by the Central Government/Central Council of
+- Indian Medicine/Central Council for Homeopathy; or
+- c. AYUSH Hospital, standalone or co-located with Inpatient healthcare facility of any recognized system of
+- medicine, registered with the local authorities, wherever applicable, and is under the supervision of a qualified
+- registered AYUSH Medical Practitioner and must comply with all the following criterion:
+- i. Having at least 5 Inpatient beds;
+- ii. Having qualified AYUSH Medical Practitioner in charge round the clock;
+- Having qualified registered AYUSH Medical Practitioner(s) in charge;
+- Medical Council of India or Council for Indian Medicine or for Homeopathy set up by the Government of India or a
+- State Government and is thereby entitled to practice medicine within its jurisdiction; and is acting within its scope
+- and jurisdiction of license.
+- 29. Medically Necessary Treatment:-
+- Medically necessary treatment means any treatment, tests, medication, or stay in Hospital or part of a stay in
+- Hospital which:
+- is required for the medical management of the Illness or Injury suffered by the Insured;
+- must not exceed the level of care necessary to provide safe, adequate and appropriate medical care in
+- scope, duration, or intensity;
+- must have been prescribed by a Medical Practitioner,
+- must conform to the professional standards widely accepted in international medical practice or by the
+- medical community in India.
+- medicine viz. chiropractic treatment, osteopathy, Chinese herbal medicine, homeopathy, acupuncture and
+- podiatry as practised by approved therapists.
+- 6. Dental prescription drugs outside India:-
+- Dental prescription drugs outside India refers to those prescribed by a dentist for the treatment of dental
+- inflammation or infection. The prescription drugs must be proven to be effective for the condition and recognized
+- by the pharmaceutical regulator in a given country. They do not include mouthwashes, fluoride products,
+- antiseptic gels and toothpastes.
+- 7. Dental prostheses outside India:-
+- chiropractic treatment, osteopathy, Chinese herbal medicine, homeopathy, acupuncture and podiatry as practised
+- by approved therapists.
+- osteopathy, homeopathy,
+- Chinese herbal medicine,
+- acupuncture and podiatry)
+- Dental plan benefits (optional)
+- IMPERIAL PLAN
+- IMPERIAL PLUS PLAN
+- Maximum dental plan
+- benefit for international
+- treatments only
+- Dental treatment outside India
+
+## Waiting Periods
+- time-bound exclusions and for all waiting periods.
+- a. During the first year of Global Health Care Policy with Us, 30 days waiting period would be applicable for all
+- a. During the first year of Global Health Care Policy with Us, 90 days waiting period would be applicable for all
+- claims under Physiotherapy Benefit except those arising out of Accidental Injury, however the waiting period
+- During the first year of Global Health Care Policy with Us, 30 days waiting period would be applicable for all claims
+- under Alternate/Complementary Treatment Expenses except those arising out of Accidental Injury, however the
+- waiting period would not be applied during subsequent renewals.
+- III. DENTAL PLAN BENEFITS (Optional)
+- a. During the first year of Global Health Care Policy with Us, 30 days waiting period would be applicable for all
+- claims except those arising out of Accidental Injury, however the waiting period would not be applied during
+- IRDAI (Health Insurance) Regulations then waiting period for the same would be reduced to the extent of prior
+- 2) Specified disease/procedure waiting period (Code - Excl02)
+- a. Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the
+- expiry of 24 months of continuous coverage after the date of inception of the first Global Health Care Policy
+- c. If any of the specified disease/procedure falls under the waiting period specified for Pre-Existing diseases,
+- then the longer of the two waiting periods shall apply.
+- d. The waiting period for listed conditions shall apply even if contracted after the Policy or declared and accepted
+- stipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.
+- List of specific diseases/procedures is as below
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 21
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- 1. Any type gastrointestinal ulcers
+- 2. Cataracts,
+- 3. Any type of fistula
+- 4. Macular Degeneration
+- 5. Benign prostatic hypertrophy
+- 6. Hernia of all types
+- 7. All types of sinuses
+- 8. Fissure in ano
+- 9. Haemorrhoids, piles
+- 10. Hydrocele
+- 11. Dysfunctional uterine bleeding
+- 12. Fibromyoma
+- 13. Endometriosis
+- 14. Hysterectomy
+- 15. Uterine Prolapse
+- 16. Stones in the urinary and biliary systems
+- 17. Surgery on ears/tonsils/
+- adenoids/ paranasal sinuses
+- 18. Surgery on all internal or external tumours/ cysts/
+- nodules/polyps of any kind including breast lumps
+- with exception of Malignant tumor or growth
+- 19. Diseases of gall bladder including cholecystitis
+- 20. Pancreatitis
+- 21. All forms of Cirrhosis
+- 22. Gout and rheumatism
+- 23. Tonsilitis
+- 24. Surgery for varicose veins and
+- varicose ulcers
+- 3) 30-day waiting period (Code - Excl03)
+- a. Expenses related to the treatment of any Illness within 30 days from the first Policy commencement date shall
+- c. The within referred waiting period is made applicable to the enhanced Sum Insured in the event of granting
+- IRDAI (Health Insurance) Regulations then waiting period for the same would be reduced to the extent of prior
+- 2) Specified disease/procedure waiting period (Code-Excl02)
+- a. Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the
+- expiry of 24 months of continuous coverage after the date of inception of the first Global Health Care Policy
+- c. If any of the specified disease/procedure falls under the waiting period specified for Pre-Existing diseases,
+- then the longer of the two waiting periods shall apply.
+- d. The waiting period for listed conditions shall apply even if contracted after the Policy or declared and accepted
+- stipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.
+- List of specific diseases/procedures is as below
+- 1. Any type gastrointestinal ulcers
+- 2. Cataracts,
+- 3. Any type of fistula
+- 4. Macular Degeneration
+- 5. Benign prostatic hypertrophy
+- 6. Hernia of all types
+- 7. All types of sinuses
+- 8. Fissure in ano
+- 9. Haemorrhoids, piles
+- 10. Hydrocele
+- 11. Dysfunctional uterine bleeding
+- 12. Fibromyoma
+- 13. Endometriosis
+- 14. Hysterectomy
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 25
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- 15. Uterine Prolapse
+- 16. Stones in the urinary and biliary systems
+- 17. Surgery on ears/tonsils/
+- adenoids/ paranasal sinuses
+- 18. Surgery on all internal or external tumours/ cysts/
+- nodules/polyps of any kind including breast lumps
+- with exception of Malignant tumor or growth
+- 19. Diseases of gall bladder including cholecystitis
+- 20. Pancreatitis
+- 21. All forms of Cirrhosis
+- 22. Gout and rheumatism
+- 23. Tonsilitis
+- 24. Surgery for varicose veins and
+
+## Pre-Existing Disease
+- periods and coverage of pre-existing diseases. Coverage is not available for the period for which no premium is
+- 17. Hospital:-
+- supervision of a dedicated Medical Practitioner(s), and which is specially equipped for the continuous monitoring
+- and treatment of patients who are in a critical condition, or require life support facilities and where the level of care
+- and supervision is considerably more sophisticated and intensive than in the ordinary and other wards.
+- pre-existing conditions and time bound exclusions, with the same insurer.
+- 31. Network Provider:-
+- Network Provider means Hospitals or health care providers enlisted by an insurer, TPA or jointly by an Insurer
+- and TPA to provide medical services to an Insured by a Cashless Facility.
+- under family cover) to transfer the credit gained for pre-existing conditions and time-bound exclusions from
+- one insurer to another.
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 5
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- 37. Pre-Existing Disease:-
+- Pre-Existing Disease means any condition, ailment or Injury or disease
+- a. That is/are diagnosed by a physician within 48 months prior to the effective date of the Policy issued by the
+- b. For which medical advice or treatment was recommended by, or received from, a physician within 48 months
+- of grace period for treating the renewal continuous for the purpose of gaining credit for pre-existing diseases,
+- 1) Pre-Existing Diseases (Code -Excl01)
+- a. Expenses related to the treatment of a Pre-Existing Disease (PED) and its direct complications shall be
+- excluded until the expiry of 36 months of continuous coverage after the date of inception of the first Global
+- Health Care Policy with Us.
+- d. Coverage under the Policy after the expiry of 36 months for any Pre-Existing Disease is subject to the same
+- being declared at the time of application and accepted by Insurer.
+- rebellion, revolution, insurrection, military or usurped power or confiscation or nationalization or requisition of or
+- damage by or under the order of any government or public local authority.
+- Any Medical expenses incurred due to Act of Terrorism will be covered under the Policy.
+- 4) The cost of spectacles, contact lenses, hearing aids, crutches, dentures, artificial teeth and all other external
+- appliances and/or devices whether for diagnosis or treatment except for Cost of Artificial Limbs, cost of
+- 1) Pre-Existing Diseases (Code-Excl01)
+- a. Expenses related to the treatment of a Pre-Existing Disease (PED) and its direct complications shall be
+- excluded until the expiry of 36 months of continuous coverage after the date of inception of the first Global
+- Health Care Policy with Insurer.
+- d. Coverage under the Policy after the expiry of 36 months for any pre-existing disease is subject to the same
+- being declared at the time of application and accepted by Insurer.
+- rebellion, revolution, insurrection, military or usurped power or confiscation or nationalization or requisition of or
+- damage by or under the order of any government or public local authority.
+- Any Medical expenses incurred due to Act of Terrorism will be covered under the Policy.
+- 4) The cost of spectacles, contact lenses, hearing aids, crutches, dentures, artificial teeth and all other external
+- appliances and/or devices whether for diagnosis or treatment except for Cost of Artificial Limbs, cost of prosthetic
+- shall be evidenced by a written endorsement signed and stamped.
+- Where an Insured is added to this Policy, either by way of Endorsement or at the time of renewal, the pre-existing
+- 1 Stapedotomy
+- 204 Infected Keloid Excision
+- 2 Myringoplasty(Type I Tympanoplasty)
+- 205 Incision of a pilonidal sinus / abscess
+- 3 Revision stapedectomy
+- 206 Axillary lymphadenectomy
+- 4 Labyrinthectomy for severe Vertigo
+- 207 Wound debridement and Cover
+- 5 Stapedectomy under GA
+- 208 Abscess-Decompression
+- 9 Stapedectomy under LA
+- 212 Incision and drainage of Abscess
+- 10 Revision of the fenestration of the inner ear.
+- 213 Suturing of lacerations
+- 11 Tympanoplasty (Type IV)
+- 214 Scalp Suturing
+- 12 Endolymphatic Sac Surgery for Meniere's
+- 215 Infected lipoma excision
+- 13 Turbinectomy
+- 216 Maximal anal dilatation
+- 14 Removal of Tympanic Drain under LA
+- 15 Endoscopic Stapedectomy
+- A)Injection Sclerotherapy
+- 16 Fenestration of the inner ear
+- B)Piles banding
+- 17 Incision and drainage of perichondritis
+- 218 Liver Abscess- catheter drainage
+- 18 Septoplasty
+- 219 Fissure in Ano- fissurectomy
+- 19 Vestibular Nerve section
+- 220 Fibroadenoma breast excision
+- 20 Thyroplasty Type I
+- 221 OesophagealvaricesSclerotherapy
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 44
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- 21 Pseudocyst of the Pinna - Excision
+- 222 ERCP - pancreatic duct stone removal
+- 22 Incision and drainage - Haematoma Auricle
+- 223 Perianal abscess I&D
+- 23 Tympanoplasty (Type II)
+- 224 Perianal hematoma Evacuation
+- 24 Keratosis removal under GA
+- 225 Fissure in anosphincterotomy
+- 25 Reduction of fracture of Nasal Bone
+- 226 UGI scopy and Polypectomyoesophagus
+- 26 Excision and destruction of lingual tonsils
+- 227 Breast abscess I& D
+- 27 Conchoplasty
+
+## Exclusions
+- subject always to the Policy Schedule and the following terms, conditions, exclusions, and limitations of the Policy,
+- exclusions contained or otherwise expressed in this Policy.
+- PART A- COVERAGE- Domestic (Within India Only, for Imperial and Imperial Plus Plans)
+- Subject otherwise to the terms, conditions and exclusions of the Policy.
+- Exclusions: Mental Illness Treatment does not cover:
+- a. Any expenses for Mental Illness Treatment related to Alcoholism, drug or substance abuse or any addictive
+- condition and consequences thereof.
+- b. Any expenses for diagnostic tests, investigations / treatment taken without the psychiatrist advising the same
+- and which is not duly supported by his prescriptions
+- c. Alternate treatment other than Allopathic treatment are not covered.
+- Annexure III subject to the Sum Insured, terms, conditions and definitions, exclusions contained or otherwise
+- expressed in this Policy.
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 13
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- TABLE OF BENEFITS FOR DOMESTIC COVER
+- IMPERIAL PLAN
+- IMPERIAL PLUS PLAN
+- Exclusions (Applicable to Medical Evacuation):
+- a. costs for hotel suites, four or five-star hotel accommodation or hotel accommodation for an accompanying
+- b. travel costs for accompanying person
+- c. travel costs of Insured family members in the event of an evacuation
+- Where adequately screened blood is not available locally, We will, where appropriate, try to locate and transport
+- screened blood and sterile transfusion equipment, if this is advised by the treating Doctor and Our own medical
+- experts. We and Our agents accept no liability if We are unsuccessful or if contaminated blood or equipment is
+- used by the treating authority.
+- Exclusions: Mental Illness Treatment does not cover:
+- a. Any expenses for Mental Illness Treatment related to Alcoholism, drug or substance abuse or any addictive
+- condition and consequences thereof. .
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 16
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- b. Any expenses for diagnostic tests, investigations / treatment taken without the psychiatrist advising the same
+- and which is not duly supported by his prescriptions
+- c. Alternate treatment other than Allopathic treatment are not covered.
+- Exclusion:
+- Cover is not provided for curative or follow-up non-Emergency treatment, even if You are deemed unable to travel
+- Exclusions:
+- a. travel costs for accompanying person
+- b. travel costs of Insured family members in the event of repatriation
+- c. travel costs of Insured members to be with a family member who is at peril of death or who has died
+- Exclusions:
+- Expense incurred for any person accompanying the remains is not covered.
+- Annexure III subject to the Sum Insured, terms, conditions and definitions, exclusions contained or otherwise
+- expressed in this Policy.
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 18
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- Exclusions:
+- Exclusion:
+- Exclusions:
+- claim, subject to terms, conditions and definitions, exclusions, up to the limit specified in the Policy Schedule.
+- 1. Dental treatment outside India
+- We will pay Customary and Reasonable expenses up to the limits specifies in the Policy Schedule incurred for
+- Dental Treatment which includes annual check-up, simple fillings related to cavities or decay, root canal
+- treatment and dental prescription drugs.
+- 2. Dental surgery outside India
+- We will pay Customary and Reasonable expenses up to the limits specified in the Policy Schedule incurred for
+- Dental Surgery which includes the surgical extraction of teeth, as well as other tooth-related surgical procedures
+- such as apicoectomy, Surgical removal of cysts, Orthognathic surgeries for the correction of malocclusion and
+- UIN- BAJHLIP23020V012223
+- Global Health Care/ Policy Wordings/Page 19
+- Bajaj Allianz General Insurance Co. Ltd.
+- Bajaj Allianz House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113
+- For more details, log on to: www.bajajallianz.com | E-mail: bagichelp@bajajallianz.co.in or
+- Call at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)
+- GLOBAL HEALTH CARE
+- dental prescription drugs. All investigative procedures that establish the need for dental surgery such as
+- laboratory tests, X-rays, CT scans and MRI(s) are included under this benefit.
+- Exclusions:
+-  Dental surgery does not cover surgical treatment that relates to dental implants.
+-  Dental Prostheses, dental implants, orthodontics
+- 3. Periodontics outside India
+- We will pay Customary and Reasonable expenses up to the limits specified in the Policy Schedule incurred for
+- treatment related to gum disease.
+- Exclusions applicable to Dental Plan Benefits:
+- SECTION D) EXCLUSIONS- STANDARD EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER
+- UNDER SECTION C) BENEFITS COVERED UNDER THE POLICY
+- b. In case of enhancement of Sum Insured the exclusion shall apply afresh to the extent of Sum Insured increase.
+- with Us. This exclusion shall not be applicable for claims arising due to an Accident.
+- b. In case of enhancement of Sum Insured the exclusion shall apply afresh to the extent of Sum Insured increase.
+- without a specific exclusion.
+- b. This exclusion shall not, however apply if the Insured has Continuous Coverage for more than twelve months.
+- SECTION D) EXCLUSIONS– SPECIFIC EXCLUSIONS APPLICABLE TO PART A- DOMESTIC COVER UNDER
+- SECTION C) BENEFITS COVERED UNDER THE POLICY
+- We do not cover the following expenses unless indicated otherwise in the Table of Benefits or in any written Policy
+- endorsement
+- 1) Any Dental Treatment that comprises of cosmetic surgery, dentures, dental prosthesis, dental implants,
+
+
+## In Simple Words
+This insurance helps pay hospital bills when you fall sick.  
+Some treatments have waiting periods and exclusions depending on the illness.

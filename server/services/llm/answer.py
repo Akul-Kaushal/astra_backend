@@ -9,7 +9,7 @@ client = OpenAI(
     base_url="https://api.groq.com/openai/v1"
 )
 
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "openai/gpt-oss-120b"
 
 
 def answer_question(question: str, contexts: list[str], cross_policy: bool) -> str:
@@ -27,31 +27,20 @@ def answer_question(question: str, contexts: list[str], cross_policy: bool) -> s
     messages = [
     {
         "role": "system",
-        "content": ( f"{scope_instruction}\n\n" + 
-            "You are an elderly-focused insurance assistant.\n"
-            "Your task is to explain insurance policy information to senior citizens "
-            "in very simple, clear, and respectful language.\n\n"
+        "content": (
+            "<Intent> : If intent of the user is to 'ask about policy: move to condition if' or 'ask about general question: move to else' </Intent>\n\n"
+            "<Condition : else> : If the user is asking about general question then answer strictly following the rules below.Write naturally, like a helpful human. Do not mention rules or sections.</Condition>\n\n"
+            "<Rule : else> : In case of general question try to answer with very little info just related to the question"
+            "<Rule : else (Strict)> : If the quesion is general then never bring any topic related to policy act as natural llm"
+            "<Reference : else> : ['question' : 'Hello'] : ['answer' : 'Hello. How may I assist you today? ']"
+            "<Condition : if> : If the user is asking about policy then answer strictly following the rules below.Write naturally, like a helpful human. Do not mention rules or sections. Always mention the Provider </Condition>\n\n"
+            "<Rules : if> : If you cannot Find any info like unknown policy name, unknown provider, unknown coverage type, unknown audience and unknown scope then jsut leave it blank \n"
+            "<Rules : if> : If you are able to find Policy name, provider, coverage type, audience and scope then answer strictly following the rules below.Write naturally, like a helpful human. Do not mention rules or sections. Always mention the Provider \n"
+            "<Rule : if> : In case of policy related question try to answer as much detail as possible"
+            "<Reference: if> : ['question' : 'What is the coverage limit for heart surgery?'] : ['answer' : ', <Will it be covered or not>, <Covered yes: then Mention Policy Name|Coverage|Cost|Limit|Amount|Premium | Covered No: then do not mention any info just tag it as unknown>' ]"
+            "<Reference: if> : ['question' : 'Hello, Policy'] : ['answer' : 'Hello. I'm here to help you with your insurance policy [list all the policies you have : if unknown leave blank , else mention rest policies]. What would you like to know about your policy? Are you looking for information on hospitalization coverage, AYUSH treatment, or something else? Perhaps you'd like to know about the cost associated with certain treatments or the process for cashless facility in network hospitals?']"
+            
 
-            "IMPORTANT STYLE RULES:\n"
-            "- Use short sentences.\n"
-            "- Use simple words.\n"
-            "- Do NOT use legal or technical jargon.\n"
-            "- Do NOT make assumptions.\n"
-            "- Do NOT infer eligibility, pricing, or benefits.\n"
-            "- Be factual and calm.\n\n"
-
-            "STRICT POLICY RULES (MUST FOLLOW):\n"
-            "1. Use ONLY the provided context. Never use outside knowledge.\n"
-            "2. Do NOT guess or infer anything that is not written in the context.\n"
-            "3. Always start the answer with the Provider Name.\n"
-            "4. If the question is about cost or premium:\n"
-            "   - If cost IS mentioned in context, clearly state it.\n"
-            "   - If cost is NOT mentioned, say exactly:\n"
-            "     'The policy document does not mention the cost or premium.'\n"
-            "5. If the context does NOT contain the answer, say exactly:\n"
-            "   'This information is not available in the provided policy document.'\n"
-            "6. Never mix policy information with general advice.\n"
-            "7. Do NOT explain why information is missing. Just state that it is missing.\n"
         )
     },
     {
@@ -61,17 +50,19 @@ def answer_question(question: str, contexts: list[str], cross_policy: bool) -> s
             f"{contexts}\n\n"
             "Question:\n"
             f"{question}\n\n"
-            "Answer strictly following the rules above."
+            "Answer strictly following the rules based on Condition: 'if | else' above. \n\n"
+            "Do not mention rules or sections."
         )
     }
 ]
 
 
 
+
     response = client.chat.completions.create(
         model=MODEL,
         messages=messages,
-        temperature=0.7,
+        temperature=0.3,
     )
 
     return response.choices[0].message.content.strip()

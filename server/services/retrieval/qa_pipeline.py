@@ -7,14 +7,82 @@ from server.services.llm.answer import answer_question
 def is_cross_policy_question(question: str) -> bool:
     q = question.lower()
     keywords = [
-        "policies",
-        "which policy",
-        "available",
-        "options",
-        "for age",
-        "50",
-        "senior",
-        "above",
+        # General coverage
+        "covered",
+        "coverage",
+        "does it cover",
+        "is it covered",
+        "included",
+        "include",
+        "benefit",
+        "benefits",
+
+        # Surgery / treatment
+        "surgery",
+        "operation",
+        "procedure",
+        "treatment",
+        "therapy",
+        "hospitalization",
+        "hospitalisation",
+        "icu",
+        "operation theatre",
+        "implant",
+        "device",
+
+        # Disease / condition
+        "heart",
+        "cardiac",
+        "cancer",
+        "diabetes",
+        "kidney",
+        "dialysis",
+        "stroke",
+        "bypass",
+        "angioplasty",
+        "stent",
+        "transplant",
+
+        # Cost / money
+        "cost",
+        "price",
+        "expense",
+        "expenses",
+        "charges",
+        "bill",
+        "amount",
+        "limit",
+        "sub limit",
+        "maximum",
+        "up to",
+        "rs",
+        "₹",
+
+        # Eligibility / age
+        "age",
+        "years",
+        "yrs",
+        "eligible",
+        "eligibility",
+        "entry age",
+        "renewal age",
+
+        # Waiting / exclusions
+        "waiting period",
+        "waiting",
+        "months",
+        "days",
+        "pre-existing",
+        "ped",
+        "excluded",
+        "not covered",
+        "exclusion",
+
+        # Claim related
+        "claim",
+        "reimbursement",
+        "cashless",
+        "settlement"
     ]
     return any(k in q for k in keywords)
 
