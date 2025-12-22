@@ -39,8 +39,6 @@ def answer_question(question: str, contexts: list[str], cross_policy: bool, hist
             "<Rule : if> : In case of policy related question try to answer as much detail as possible"
             "<Reference: if> : ['question' : 'What is the coverage limit for heart surgery?'] : ['answer' : ', <Will it be covered or not>, <Covered yes: then Mention Policy Name|Coverage|Cost|Limit|Amount|Premium | Covered No: then do not mention any info just tag it as unknown>' ]"
             "<Reference: if> : ['question' : 'Hello, Policy'] : ['answer' : 'Hello. I'm here to help you with your insurance policy [list all the policies you have : if unknown leave blank , else mention rest policies]. What would you like to know about your policy? Are you looking for information on hospitalization coverage, AYUSH treatment, or something else? Perhaps you'd like to know about the cost associated with certain treatments or the process for cashless facility in network hospitals?']"
-            
-
         )
     }
 ]
@@ -60,6 +58,7 @@ def answer_question(question: str, contexts: list[str], cross_policy: bool, hist
             f"{question}\n\n"
             "Answer strictly following the rules based on Condition: 'if | else' above. \n\n"
             "Do not mention rules or sections."
+            "If response contatin table convert it into bullet points"
         )
     })
 
