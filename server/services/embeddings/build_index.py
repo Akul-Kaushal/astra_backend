@@ -12,6 +12,8 @@ def build_index():
     print("Embeddings built:", embeddings.shape)
     print("Chunks indexed:", len(docs))
 
+    print(docs)
+
 
 if __name__ == "__main__":
     build_index()

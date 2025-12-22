@@ -5,6 +5,7 @@ from server.services.markdown.extract_insurance_metadata import extract_insuranc
 from server.services.markdown.saving_markdown import save_markdown
 from server.services.markdown.chunk_markdown import chunk_markdown
 from server.services.markdown.utils import safe_filename
+from server.services.embeddings.build_index import build_index
 import uuid
 
 router = APIRouter()
@@ -25,5 +26,6 @@ async def upload_pdf(file: UploadFile = File(...)):
 
     saved_path = save_markdown(markdown, filename=filename, doc_type=metadata.get("doc_type"))
 
+    build_index()
 
-    return {"extracted_length": len(text), "metadata": metadata, "markdown": markdown, "saved_path": saved_path }
+    return {"extracted_length": len(text), "metadata": metadata, "markdown": markdown, "saved_path": saved_path}
