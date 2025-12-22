@@ -86,7 +86,7 @@ def is_cross_policy_question(question: str) -> bool:
     ]
     return any(k in q for k in keywords)
 
-def ask(question: str):
+def ask(question: str, history: list[dict[str, str]] | None = None):
     index, docs = load_vector_store()
     query_vec = embed_query(question)
 
@@ -96,7 +96,7 @@ def ask(question: str):
     retrieved = search(index, docs, query_vec, top_k=top_k)
     contexts = [d["content"] for d in retrieved]
 
-    answer = answer_question(question, contexts, cross_policy)
+    answer = answer_question(question, contexts, cross_policy, history)
     return answer
 
 

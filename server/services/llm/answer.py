@@ -12,7 +12,7 @@ client = OpenAI(
 MODEL = "openai/gpt-oss-120b"
 
 
-def answer_question(question: str, contexts: list[str], cross_policy: bool) -> str:
+def answer_question(question: str, contexts: list[str], cross_policy: bool, history: list[dict[str, str]] | None = None) -> str:
     context_text = "\n\n".join(contexts)
 
     scope_instruction = (
@@ -42,21 +42,26 @@ def answer_question(question: str, contexts: list[str], cross_policy: bool) -> s
             
 
         )
-    },
-    {
+    }
+]
+
+    if history:
+        for turn in history:
+            messages.append({"role": "user", "content": turn["question"]})
+            messages.append({"role": "assistant", "content": turn["answer"]})
+
+    
+    messages.append({
         "role": "user",
         "content": (
             "Context (Policy Content):\n"
-            f"{contexts}\n\n"
+            f"{context_text}\n\n"
             "Question:\n"
             f"{question}\n\n"
             "Answer strictly following the rules based on Condition: 'if | else' above. \n\n"
             "Do not mention rules or sections."
         )
-    }
-]
-
-
+    })
 
 
     response = client.chat.completions.create(
